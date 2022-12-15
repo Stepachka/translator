@@ -1,0 +1,6 @@
+Var a,b,c
+Begin
+a=~5
+b=5*a
+c=7*(a+b)
+End.

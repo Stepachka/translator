@@ -1,0 +1,13 @@
+LIT 5 
+NOT 
+STO a 
+LIT 5 
+LOAD 
+MIL 
+STO b 
+LIT 7 
+LOAD 
+LOAD 
+ADD 
+MIL 
+STO c 
